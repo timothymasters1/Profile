@@ -1,6 +1,5 @@
 # Profile
 
-A template for a Github Profile
 
 My name is Timothy Masters and I'm an Engineer. When I was 17 years old I decided to become and engineerin and take on the world and many years later I am still learning
 
