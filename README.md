@@ -1,7 +1,7 @@
 # Profile
 
 
-My name is Timothy Masters and I'm an Engineer. When I was 17 years old I decided to become and engineerin and take on the world and many years later I am still learning
+My name is Timothy Masters and I'm an Engineer. When I was 17 years old I decided to become and engineer and take on the world and many years later I am still learning every day.
 
 I've published a few things:
 
